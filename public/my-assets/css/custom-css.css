@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.cust-active *{
+    font-weight: bold;
+    color: black;
+}
+
+.min-mt-1{
+    margin-top: -0.25rem !important;
+}
+.min-mt-2{
+    margin-top: -0.5rem !important;
+}
+.min-mt-3{
+    margin-top: -0.75rem !important;
+}
+.min-mt-4{
+    margin-top: -1rem !important;
+}
+
+.fs-7 {
+    font-size: 0.9rem !important;
+}
+
+.fs-8 {
+    font-size: 0.8rem !important;
+}
+
+.fs-9 {
+    font-size: 0.25rem !important;
+}
+
+.biruSMP{
+    background-color: #237AAA;
+}
